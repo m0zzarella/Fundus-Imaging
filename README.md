@@ -6,6 +6,8 @@ Morphological closing and opening was performed on the CLAHE applied image 3 tim
 Subsequently contours were removed with the inbuilt funtions of OpenCV. 
 The above mentioned process was applied on each of the 45 images through an automated process and the following performance metrics were performed:
 
-Average root mean square error: 0.012812103579441706
+Average root mean square error: 0.012812103579441706 
+
 Average peak signal to noise ratio: 37.87098782126279
+
 Average structural similarity index values: 0.8582882934168227
