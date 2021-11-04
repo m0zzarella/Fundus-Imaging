@@ -13,6 +13,7 @@ Firstly the green channel was isolated and extracted from the RGB image:
 ![image](https://user-images.githubusercontent.com/53914842/140279744-d3194c21-0605-4880-94db-4ab0bc6ca000.png)
 
 Then to enhance, Contrast limited adaptive histogram equalization (CLAHE) was applied to the extracted green channel of the image. 
+
 CLAHE applied image:
 
 ![image](https://user-images.githubusercontent.com/53914842/140279789-19342d13-afb1-4b10-afe0-6aee34437ffc.png)
