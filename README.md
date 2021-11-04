@@ -2,6 +2,7 @@
 Extracting blood vessels from retinal fundus images using classical morphological techniques.
 
 Data is taken from the open source retinal database of the University of Erlangen-Nuremberg. 
+
 Sample: 
 
 ![image](https://user-images.githubusercontent.com/53914842/140279666-58740fc9-1f41-4a73-be95-4e44608132be.png)
@@ -24,6 +25,7 @@ Morphological closing and opening was performed on the CLAHE applied image 3 tim
 Subsequently contours were removed with the inbuilt funtions of OpenCV.
 
 ![image](https://user-images.githubusercontent.com/53914842/140279873-4adf7981-f5ae-48eb-9424-bba1f8d3e6b1.png)
+
 
 ![image](https://user-images.githubusercontent.com/53914842/140279934-b236b1bf-26ae-4cba-8b55-335f3d91dc69.png)
 
